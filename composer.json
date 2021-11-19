@@ -1,0 +1,12 @@
+{
+    "require": {
+        "nil-bora/utils": "1.0.x-dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "ApiGateWay\\": "ApiGateWay",
+            "Jtrw\\ApiClient\\": "ApiClient",
+            "Jtrw\\FeatureFlags\\": "FeatureFlags"
+        }
+    }
+}
