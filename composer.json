@@ -4,9 +4,8 @@
     },
     "autoload": {
         "psr-4": {
-            "ApiGateWay\\": "ApiGateWay",
-            "Jtrw\\ApiClient\\": "ApiClient",
-            "Jtrw\\FeatureFlags\\": "FeatureFlags"
+            "ApiGateWay\\": "src/ApiGateway",
+            "Jtrw\\ApiClient\\": "src/ApiClient"
         }
     }
 }
